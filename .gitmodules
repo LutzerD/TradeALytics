@@ -1,0 +1,6 @@
+[submodule "TradeBot"]
+	path = TradeBot
+	url = https://github.com/LutzerD/TradeBot.git
+[submodule "super-duper-adventure"]
+	path = super-duper-adventure
+	url = https://github.com/LutzerD/super-duper-adventure.git
